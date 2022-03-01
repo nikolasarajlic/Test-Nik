@@ -1,0 +1,2 @@
+README.md  flie1.txt	  test.txt   testgit.exe
+filr2.txt  stranica.html  test2.txt
